@@ -5390,7 +5390,7 @@
       "stopNumber": "33",
       "address": "rua jatas 685",
       "failReason": null,
-      "isDelivered": false,
+      "isDelivered": true,
       "packageId": "48360866928",
       "buyerName": "Ricardo Oliveira Alves",
       "phone": "67999849493"
@@ -18914,7 +18914,7 @@
       "stopNumber": "85",
       "address": "avenida são francisco 1854",
       "failReason": null,
-      "isDelivered": false,
+      "isDelivered": true,
       "packageId": "48365855612",
       "buyerName": "Priscila Carneiro da Silva Cecato",
       "phone": "67984489823"
@@ -18925,7 +18925,7 @@
       "formattedDriver": "Paulo Clima Da Silva",
       "stopNumber": "86",
       "address": "avenida são francisco 1984",
-      "failReason": null,
+      "failReason": "Negócio fechado",
       "isDelivered": false,
       "packageId": "48377535664",
       "buyerName": "claise Kleemann",
@@ -18937,7 +18937,7 @@
       "formattedDriver": "Paulo Clima Da Silva",
       "stopNumber": "86",
       "address": "avenida são francisco 1984",
-      "failReason": null,
+      "failReason": "Negócio fechado",
       "isDelivered": false,
       "packageId": "48377506282",
       "buyerName": "claise Kleemann",
@@ -18962,7 +18962,7 @@
       "stopNumber": "87",
       "address": "avenida são francisco 2014",
       "failReason": null,
-      "isDelivered": false,
+      "isDelivered": true,
       "packageId": "48361590566",
       "buyerName": "Evanilda Gonçalves Figueiredo da Silva",
       "phone": "67996451603"
@@ -18974,7 +18974,7 @@
       "stopNumber": "87",
       "address": "avenida são francisco 2014",
       "failReason": null,
-      "isDelivered": false,
+      "isDelivered": true,
       "packageId": "48361590182",
       "buyerName": "Evanilda Gonçalves Figueiredo da Silva",
       "phone": "67996451603"
